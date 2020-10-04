@@ -2,6 +2,6 @@
 
 -> The following algorithm finds a path from a vertex s to a vertex t in a directed graph.
 
--> Implemented using language .
+-> Implemented using C language .
 
 -> The graphe is represented by the adjacency matrix ,the matrix must be read from a text file "matrice.txt".
